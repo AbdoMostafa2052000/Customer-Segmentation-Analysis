@@ -1,1 +1,2 @@
 # Customer-Segmentation-Analysis
+## This repository and its accompanying article delve into various techniques for clustering, visualizing, and interpreting clustering algorithms and their outputs. The exploration covers k-Means and DBSCAN as clustering algorithms, alongside t-SNE and PCA for dimensionality reduction. Additionally, the process includes employing variance techniques and assessing feature importance to select variables that distinctly represent clusters.
