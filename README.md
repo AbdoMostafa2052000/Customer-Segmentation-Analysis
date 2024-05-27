@@ -2,6 +2,11 @@
 
 ## This repository and its accompanying article delve into various techniques for clustering, visualizing, and interpreting clustering algorithms and their outputs. The exploration covers k-Means and DBSCAN as clustering algorithms, alongside t-SNE and PCA for dimensionality reduction. Additionally, the process includes employing variance techniques and assessing feature importance to select variables that distinctly represent clusters.
 
+## Data Source
+
+The dataset is available on Kaggle:
+[Kaggle: Customer Segmentation Analysis]([https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi?select=robusta_data_cleaned.csv](https://www.kaggle.com/code/abdomostafa3/customer-segmentation))
+
 
 ## Dimensionality Reduction
 Principal Component Analysis (PCA)
